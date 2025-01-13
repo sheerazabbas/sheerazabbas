@@ -1,7 +1,7 @@
 ## Hey <img src="./Hi.gif" width="29px">
 I'm <a href="https://sheerazabbas.github.io" target="_blank" title="Sheeraz Abbas">Sheeraz Abbas</a>, a passionate software engineer, solutions architect. Love solving problems, interacting with the community, sharing knowledge, and learning new things.</br>
 
-**About me:**
+**🙋🏻‍♂️ About me:**
 ```js
 const sheerazabbas = {
   😄 pronouns: brogrammer,
@@ -34,8 +34,6 @@ I also co-host the multiple <a target="_blank" href="#" >training</a> sessions a
 
 ### ⚙️ Tech Stack
 I mostly work with **JavaScript**, **PHP** specifically **Laravel**, **React** with **AWS** as the cloud along with the followings tech:
-
-_languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 
 🛠️ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -74,6 +72,8 @@ _languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 [comment]: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 [comment]: ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
+##
+
 ### 📫 Let's connect!
 Let's code, connect, and create awesome things together!
 
@@ -89,3 +89,5 @@ Let's code, connect, and create awesome things together!
 ### 🍿 fun fact
 
 [![LeetCode user sheerazabbas](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsheerazabbas&logo=leetcode&logoColor=yellow)](https://leetcode.com/sheerazabbas/)
+![open source love](https://img.shields.io/badge/opensource-♥️-43853D)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sheerazabbas&countColor=%232ccce4&style=flat&labelStyle=lower)
