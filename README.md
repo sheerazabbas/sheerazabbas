@@ -23,7 +23,7 @@ I also co-host the multiple <a target="_blank" href="#" >training</a> sessions a
 [![StackOverflow](https://img.shields.io/badge/sheerazabbas-%23F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7955629/sheerazabbas)
 
 
-### Featured blogs/articles/Speekings
+### ☕️ Featured blogs/articles/Speekings
 - 📖 [Software design patterns](https://sheerazabbas.github.io/)
 - 🚀 [KISS programming](https://sheerazabbas.github.io/)
 - 💻 [Software development life cycle](https://sheerazabbas.github.io/)
@@ -32,19 +32,19 @@ I also co-host the multiple <a target="_blank" href="#" >training</a> sessions a
 - 🧠 [Mind map technique](https://sheerazabbas.github.io/)
 
 
-### Tech Stack
+### ⚙️ Tech Stack
 I mostly work with **JavaScript**, **PHP** specifically **Laravel**, **React** with **AWS** as the cloud along with the followings tech:
 
 _languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+🛠️ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+🧪 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next-000000?logo=nextdotjs&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
@@ -60,7 +60,7 @@ _languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 [comment]: ![Apache](https://img.shields.io/badge/apache-D22128?logo=apache&logoColor=white)
 [comment]: ![LiteSpeed](https://img.shields.io/badge/LiteSpeed-yellow?logo=litespeed&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+🚀 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?logo=googlecloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
@@ -74,7 +74,7 @@ _languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 [comment]: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 [comment]: ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
-### Let's connect!
+### 📫 Let's connect!
 Let's code, connect, and create awesome things together!
 
 [![Gmail](https://img.shields.io/badge/-m.sheeraz.it@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.sheeraz.it@gmail.com)
@@ -83,3 +83,9 @@ Let's code, connect, and create awesome things together!
 [![Twitter](https://img.shields.io/badge/-msheerazabbas-000?style=flat&logo=X&logoColor=white)](https://x.com/msheerazabbas)
 [![Youtube](https://img.shields.io/badge/-@sheeraz-c14438?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@sheeraz-brogrammer)
 [![Website](https://img.shields.io/badge/-sheerazabbas.github.io-0078D4?style=flat&logo=Homepage&logoColor=white)](https://sheerazabbas.github.io/)
+
+##
+
+### 🍿 fun fact
+
+[![LeetCode user sheerazabbas](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsheerazabbas&logo=leetcode&logoColor=yellow)](https://leetcode.com/sheerazabbas/)
