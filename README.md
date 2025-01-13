@@ -52,7 +52,7 @@ _languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 ![Nodejs](https://img.shields.io/badge/Node-43853D?logo=node.js&logoColor=white)
 ![Meteor](https://img.shields.io/badge/Meteor-DE4F4F?logo=meteor&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)
-![Shopify](https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)
 
