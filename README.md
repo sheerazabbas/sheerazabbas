@@ -75,7 +75,11 @@ _languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 [comment]: ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
 ### Let's connect!
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-sheeraz-it/)
-[![Gmail](https://img.shields.io/badge/-m.sheeraz.it-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.sheeraz.it@gmail.com)
+Let's code, connect, and create awesome things together!
+
+[![Gmail](https://img.shields.io/badge/-m.sheeraz.it@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.sheeraz.it@gmail.com)
+[![Skype](https://img.shields.io/static/v1.svg?label=Skype&message=m.sheerazabbas&style=flat&color=blue)](https://join.skype.com/invite/wfHtrH7tedlg)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=sheerazabbas&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/m-sheeraz-it/)
 [![Twitter](https://img.shields.io/badge/-msheerazabbas-000?style=flat&logo=X&logoColor=white)](https://x.com/msheerazabbas)
 [![Youtube](https://img.shields.io/badge/-@sheeraz-c14438?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@sheeraz-brogrammer)
+[![Website](https://img.shields.io/badge/-sheerazabbas.github.io-0078D4?style=flat&logo=Homepage&logoColor=white)](https://sheerazabbas.github.io/)
