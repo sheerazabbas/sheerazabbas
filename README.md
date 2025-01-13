@@ -35,7 +35,7 @@ I also co-host the multiple <a target="_blank" href="#" >training</a> sessions a
 ### Tech Stack
 I mostly work with **JavaScript**, **PHP** specifically **Laravel**, **React** with **AWS** as the cloud along with the followings tech:
 
-_Programming Languages_
+_languages/libraries/frameworks/servers/hostings/clouds/tools/platforms_
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -43,8 +43,6 @@ _Programming Languages_
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Liquid-7AB55C?logo=shopify&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-
-_Libraries & Frameworks_
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -58,13 +56,9 @@ _Libraries & Frameworks_
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)
 
-_Servers_
-
-![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-D22128?logo=apache&logoColor=white)
-![LiteSpeed](https://img.shields.io/badge/LiteSpeed-yellow?logo=litespeed&logoColor=white)
-
-_Hostings & Clouds_
+[comment]: ![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
+[comment]: ![Apache](https://img.shields.io/badge/apache-D22128?logo=apache&logoColor=white)
+[comment]: ![LiteSpeed](https://img.shields.io/badge/LiteSpeed-yellow?logo=litespeed&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?logo=googlecloud&logoColor=white)
@@ -74,13 +68,11 @@ _Hostings & Clouds_
 ![Alibaba](https://img.shields.io/badge/Alibaba-FF6A00?logo=alibabadotcom&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-_Tools & Platforms_
-
 ![SSH](https://img.shields.io/badge/-SSH-000000?logo=termius&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
+
+[comment]: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+[comment]: ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
 ### Let's connect!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-sheeraz-it/)
