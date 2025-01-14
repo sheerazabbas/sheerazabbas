@@ -102,22 +102,19 @@ Let's code, connect, and create awesome things together!
 ##
 
 ### ☕️ Support
-Thank you for visiting, supporting and awesome feedbacks :))
+Thank you for visiting, supporting, and giving awesome feedback :))
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P018ZSIU)
 
 ##
 
 ### ⋮ more ...
-<a href="https://www.google.com/search?q=sheerazabbas+github">
-  <table>
-      <tr>
-          <td>
-            😊&nbsp;&nbsp;Learn more about me!
-          </td>
-          <td>
-            🌐 &nbsp;&nbsp;Explore my blog!
-          </td>
-      </tr>
-  </table>
-</a>
+
+<table>
+  <tr>
+    <td>😊&nbsp;<a href="https://www.google.com/search?q=sheerazabbas+github">Learn more about me!</a></td>
+    <td>🌐&nbsp;<a href="https://sheerazabbas.github.io/">My portfolio</a></td>
+  </tr>
+</table>
+
+💡 _free to copy, remember to give [support](https://ko-fi.com/P5P018ZSIU) and proper credit by linking back to github.com/sheerazabbas_
