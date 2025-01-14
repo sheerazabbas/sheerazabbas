@@ -22,6 +22,7 @@ I also co-host the multiple <a target="_blank" href="#" >training</a> sessions a
 [![Github](https://img.shields.io/badge/-@sheerazabbas-000?style=flat&logo=Github&logoColor=white)](https://sheerazabbas.github.io/)
 [![StackOverflow](https://img.shields.io/badge/sheerazabbas-%23F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7955629/sheerazabbas)
 
+##
 
 ### ☕️ Featured blogs/articles/Speekings
 - 📖 [Software design patterns](https://sheerazabbas.github.io/)
@@ -31,6 +32,7 @@ I also co-host the multiple <a target="_blank" href="#" >training</a> sessions a
 - 👏 [AWS lambda@edge](https://sheerazabbas.github.io/)
 - 🧠 [Mind map technique](https://sheerazabbas.github.io/)
 
+##
 
 ### ⚙️ Tech Stack
 I mostly work with **JavaScript**, **PHP** specifically **Laravel**, **React** with **AWS** as the cloud along with the followings tech:
@@ -94,3 +96,28 @@ Let's code, connect, and create awesome things together!
 ![me quot](https://img.shields.io/badge/❝❞%20winning%20!=%20success-2496ED?style=flat)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sheerazabbas&theme=flat&margin-w=5&margin-h=5&no-bg=true&no-frame=true)](https://sheerazabbas.github.io)
+
+[comment]: [![](https://ossrank.com/widget/873034)](https://ossrank.com/c/873034-sheeraz-abbas)
+
+##
+
+### ☕️ Support
+Thank you for visiting, supporting and awesome feedbacks :))
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P018ZSIU)
+
+##
+
+### ⋮ more ...
+<a href="https://www.google.com/search?q=sheerazabbas+github">
+  <table>
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my blog!
+          </td>
+      </tr>
+  </table>
+</a>
