@@ -93,4 +93,4 @@ Let's code, connect, and create awesome things together!
 ![open source love](https://img.shields.io/badge/Open%20Source-♥️-43853D)
 ![me quot](https://img.shields.io/badge/❝❞%20winning%20!=%20success-2496ED?style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sheerazabbas&theme=flat&margin-w=5&margin-h=5&no-bg=true&no-frame=true)](https://github.com/sheerazabbas/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheerazabbas&theme=flat&margin-w=5&margin-h=5&no-bg=true&no-frame=true)](https://sheerazabbas.github.io)
