@@ -13,8 +13,7 @@ const sheerazabbas = {
 }
 ```
 
-Currently, I'm building a <a target="_blank" href="#">SaaS</a> product, an app that brings together learning experience, management, and e-commerce for multiple clients around the globe at <a target="_blank" href="https://itroadway.com">IT Roadway</a>.
-Before that, I co-founded <a target="_blank" href="https://processingcontinue.com">Processing Continue</a>, an agency offering IT <a target="_blank" href="#">consulting</a> and development <a target="_blank" href="#" >services</a> to different sectors, including healthcare, education, e-commerce, fintech, and more.
+Currently, I'm building an app that brings together learning experience, management, and e-commerce along with multi vendor support at <a target="_blank" href="https://itroadway.com">IT Roadway</a>. Before that, I co-founded <a target="_blank" href="https://processingcontinue.com">Processing Continue</a>, an agency offering IT <a target="_blank" href="#">consulting</a> and development <a target="_blank" href="#" >services</a> to different sectors, including healthcare, education, e-commerce, fintech, and more.
 Before processing continue, I spent two years developing the <a target="_blank" href="#" >OTT</a> platform here I originally cut my teeth as the first product development lead at <a target="_blank" href="https://www.linkedin.com/company/tv2ulahore">Tv2u</a>.
 Before tv2u, developed a voucher <a target="_blank" href="#" >microservice</a> at <a target="_blank" href="https://www.hltech.io">HLTech</a> and spent a year developing an OTT platform.
 Parallelly, skilled with <a target="_blank" href="#" >cloud</a>, <a target="_blank" href="#" >serverless</a>, multiple <a target="_blank" href="#" >DevOps</a> and <a target="_blank" href="#" >AWS</a> services and building environments from scratch up to the production level.
