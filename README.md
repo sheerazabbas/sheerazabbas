@@ -72,6 +72,11 @@ I mostly work with **JavaScript**, **PHP** specifically **Laravel**, **React** w
 ![SSH](https://img.shields.io/badge/-SSH-000000?logo=termius&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 
+📽️ ![OTT](https://img.shields.io/badge/OTT-%23F58025?logo=&logoColor=white)
+![Stream](https://img.shields.io/static/v1.svg?label=Stream&message=HLS%20|%20DASH%20&style=flat&color=blue&labelColor=232F3E)
+![DRM](https://img.shields.io/static/v1.svg?label=DRM&message=Widevine%20|%20PlayReady%20|%20FairPlay&style=flat&color=blue&labelColor=232F3E)
+![CDN](https://img.shields.io/static/v1.svg?label=CDN&message=Akamai%20|%20Cloudflare%20|%20Amazon%20CloudFront&style=flat&color=blue&labelColor=232F3E)
+
 [comment]: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 [comment]: ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
